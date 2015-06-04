@@ -148,6 +148,7 @@ main section{
 .gallery{
     width: 100%;
     margin: 20px auto;
+    position:relative;
 }
 
 .gallery .images{
